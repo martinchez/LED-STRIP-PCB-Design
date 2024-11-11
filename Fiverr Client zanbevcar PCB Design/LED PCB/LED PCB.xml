@@ -1,0 +1,3175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\Anmart\projects\Hardwar Development\Fiverr Client zanbevcar PCB Design\Fiverr Client zanbevcar PCB Design\LED PCB\LED PCB.kicad_sch</source>
+    <date>6/13/2023 12:49:14 AM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LED PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x01</value>
+      <footprint>PCB Footprints:power pad</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99bcc98a-7d06-472d-ab06-3e178b9baf37</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01</value>
+      <footprint>PCB Footprints:signal pad</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>970a1e1a-67ee-4bf8-b93b-862de5e531d1</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01</value>
+      <footprint>PCB Footprints:power pad</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ab8844f-77a1-480f-93b3-a862e8afbc62</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01</value>
+      <footprint>PCB Footprints:power pad</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05abe916-8091-429b-9214-65e6acf5caeb</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01</value>
+      <footprint>PCB Footprints:signal pad</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99134bc8-5500-4806-8dae-802f41e7ea58</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x01</value>
+      <footprint>PCB Footprints:power pad</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fc6c133-cddf-4d1c-b0be-d9c5bab97842</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22312754-c8c2-4400-b598-394e06b2be81</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e487ce41-6eca-4769-819e-5ae61608f683</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e23ca16-151c-416a-8469-9e44e32c204b</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>863c53aa-0f8f-4787-adcc-075bd51b70e8</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46c73930-c40b-4c11-b58c-815b43d2bf90</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e465d1c-02c1-48b1-8f39-5161ef4ef3db</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f88499b-bbb4-479e-a1bf-4126bc2f6940</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea4b051-93ee-48f2-bce3-e9af0e939bfa</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96342dc6-3787-4fd8-ada1-0e2c11e756c5</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c928969-af7f-4cd8-b4a8-f4ccfd356e04</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>802fec2d-1247-4556-9013-6cfd1389bb70</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d6de22b-5ebe-4330-b50f-7d0e4e43f4d7</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d15fead-bb05-41b1-9462-debaa074f8f6</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c4a511f-c28b-4236-9e76-a48cf68aa04f</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95a88f88-1470-4ba0-a618-627eac8ddcf4</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d08928ac-cbad-4008-bd71-8dd74b41529a</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9694226e-6b91-49a4-a8f0-94f770976283</tstamps>
+    </comp>
+    <comp ref="LED18">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed87d40e-6fa0-48ed-8348-a55fbc6476c9</tstamps>
+    </comp>
+    <comp ref="LED19">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0a540d7-6b46-4c7c-865a-26468817bfce</tstamps>
+    </comp>
+    <comp ref="LED20">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34be768f-06e8-4cd2-ad59-0abfb23b8085</tstamps>
+    </comp>
+    <comp ref="LED21">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb1ec65d-6d87-4b0a-ae6d-519d9abbbf52</tstamps>
+    </comp>
+    <comp ref="LED22">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aa02be4-75de-4925-a98f-5ba1902df70d</tstamps>
+    </comp>
+    <comp ref="LED23">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>509c5a83-0484-490d-bd8e-df611e0eaa34</tstamps>
+    </comp>
+    <comp ref="LED24">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ab4669d-8069-4af6-9fc0-1739f5149def</tstamps>
+    </comp>
+    <comp ref="LED25">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0b55925-714c-42fa-862f-899e2503ff58</tstamps>
+    </comp>
+    <comp ref="LED26">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78134265-51aa-4775-8c73-64b887c1e645</tstamps>
+    </comp>
+    <comp ref="LED27">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71bc246f-d758-4246-9f67-95a75e278089</tstamps>
+    </comp>
+    <comp ref="LED28">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dd5cfa7-a70c-4bee-bd76-bf43b701ef7e</tstamps>
+    </comp>
+    <comp ref="LED29">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f227a609-47db-4153-b8f0-ebca1f2cdc5f</tstamps>
+    </comp>
+    <comp ref="LED30">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>914b15ef-d36d-4c36-9c9b-59cfd7d9804d</tstamps>
+    </comp>
+    <comp ref="LED31">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7da390bd-0ed8-4fcd-9219-a72b298aab7d</tstamps>
+    </comp>
+    <comp ref="LED32">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dbce859-86f0-49f6-9cb2-559a31fe3e2f</tstamps>
+    </comp>
+    <comp ref="LED33">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10982a5d-12d6-46d6-acd3-3a1223928911</tstamps>
+    </comp>
+    <comp ref="LED34">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa39ed9e-2e03-46fb-af14-7d9c6b516836</tstamps>
+    </comp>
+    <comp ref="LED35">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cccd2ec-bfa1-4e27-9b1f-68a7a6fe9f98</tstamps>
+    </comp>
+    <comp ref="LED36">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd78d31d-c853-42ed-ac23-49005d73d738</tstamps>
+    </comp>
+    <comp ref="LED37">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dff54c0a-5d50-45f5-9711-ae40777c595b</tstamps>
+    </comp>
+    <comp ref="LED38">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>311c58e2-062a-464a-85a6-0da5106e4393</tstamps>
+    </comp>
+    <comp ref="LED39">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa9d413b-e833-4fa4-8184-7fe41289487d</tstamps>
+    </comp>
+    <comp ref="LED40">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0234ecc-da1c-4399-9f12-7de75794dff9</tstamps>
+    </comp>
+    <comp ref="LED41">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa2d8491-a506-4b17-878b-9852ba8f9649</tstamps>
+    </comp>
+    <comp ref="LED42">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f51670b9-6904-4486-9b3b-78e0b5105a21</tstamps>
+    </comp>
+    <comp ref="LED43">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21894acf-02b0-420e-80a9-aa226282287f</tstamps>
+    </comp>
+    <comp ref="LED44">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e2fc7e1-d5a0-4cfc-b7f6-4a30fd6ca964</tstamps>
+    </comp>
+    <comp ref="LED45">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e53b87f2-7b0c-4353-a27f-9e3ab4b2c59a</tstamps>
+    </comp>
+    <comp ref="LED46">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2283d68b-ba73-4dc7-b884-316e8b3df7b7</tstamps>
+    </comp>
+    <comp ref="LED47">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2298850-6a94-4cfe-ad77-5011c8e7f143</tstamps>
+    </comp>
+    <comp ref="LED48">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f9befa3-fbcf-4528-b354-d728955f035f</tstamps>
+    </comp>
+    <comp ref="LED49">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d53d496e-b142-4d86-a1b2-b516aceddefc</tstamps>
+    </comp>
+    <comp ref="LED50">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e0cddaa-f952-453c-8430-fb38d4382d0c</tstamps>
+    </comp>
+    <comp ref="LED51">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7061b288-373f-416f-9e9f-602336560951</tstamps>
+    </comp>
+    <comp ref="LED52">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6338c449-92e4-4fb7-95f3-cde29b336d39</tstamps>
+    </comp>
+    <comp ref="LED53">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5aa7a68-e67a-4672-9339-bceda0dcaef5</tstamps>
+    </comp>
+    <comp ref="LED54">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de814d3a-4fb1-4543-98e9-b81fb2dbe654</tstamps>
+    </comp>
+    <comp ref="LED55">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33ca2ee5-4c76-4bf8-a05f-f50258ab8e4e</tstamps>
+    </comp>
+    <comp ref="LED56">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7d74c09-5ca5-4c62-a1ae-fe496632d924</tstamps>
+    </comp>
+    <comp ref="LED57">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c464b59-1598-436c-894b-95b849289c16</tstamps>
+    </comp>
+    <comp ref="LED58">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58be9acb-ec8a-4a92-837f-7d63f09c9457</tstamps>
+    </comp>
+    <comp ref="LED59">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f1eaaa5-a923-4a50-96fb-5b541e90458d</tstamps>
+    </comp>
+    <comp ref="LED60">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab835d2d-4687-4a25-9426-666c69083dab</tstamps>
+    </comp>
+    <comp ref="LED61">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9fe5f8c-0400-40ea-8300-c9358a2e125e</tstamps>
+    </comp>
+    <comp ref="LED62">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26fb4588-4f87-4f55-b663-ba908c75d200</tstamps>
+    </comp>
+    <comp ref="LED63">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf9d3976-0e13-4ed2-9c87-d2d3bef6ebe5</tstamps>
+    </comp>
+    <comp ref="LED64">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a8ad42d-c2e9-4919-bf78-422062cd94ed</tstamps>
+    </comp>
+    <comp ref="LED65">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e671fbcd-e6d5-40ea-b55c-146d431ec0fe</tstamps>
+    </comp>
+    <comp ref="LED66">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38215635-4b39-4e89-899d-0b35b966b4d8</tstamps>
+    </comp>
+    <comp ref="LED67">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cc653ae-76c6-4868-ace7-a418f9ed105a</tstamps>
+    </comp>
+    <comp ref="LED68">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bb85716-afdc-47d1-acd3-69c513f779b6</tstamps>
+    </comp>
+    <comp ref="LED69">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>796c20b6-73ee-4e76-875f-1628ec3ce8c5</tstamps>
+    </comp>
+    <comp ref="LED70">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51e49345-5a1f-479c-8c0e-dbde2999a3cd</tstamps>
+    </comp>
+    <comp ref="LED71">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aed51b63-f096-4192-8998-725bf5e2d1f9</tstamps>
+    </comp>
+    <comp ref="LED72">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03b8e364-262d-47a8-8171-ad5da34f8e98</tstamps>
+    </comp>
+    <comp ref="LED73">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7ccf258-e4fc-4235-9841-e55494ee7d98</tstamps>
+    </comp>
+    <comp ref="LED74">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3067c460-8965-44b2-9272-1824c5bee577</tstamps>
+    </comp>
+    <comp ref="LED75">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f5cc9c1-72b5-474a-860e-c3db4a243144</tstamps>
+    </comp>
+    <comp ref="LED76">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>886f5791-cd19-4225-af91-f6086ab9c296</tstamps>
+    </comp>
+    <comp ref="LED77">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51cd1516-bb43-491d-8c16-6acfbcdb4fcd</tstamps>
+    </comp>
+    <comp ref="LED78">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ecc4142-c0d9-441d-8e1f-d16acaa4b6e7</tstamps>
+    </comp>
+    <comp ref="LED79">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c13ea910-aae0-462c-a476-2d42e6096126</tstamps>
+    </comp>
+    <comp ref="LED80">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff31fc86-5c9b-434e-b77f-68319b843c15</tstamps>
+    </comp>
+    <comp ref="LED81">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>928be165-185c-4ea6-8834-1a87ef0b3237</tstamps>
+    </comp>
+    <comp ref="LED82">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf3a4325-5d00-494d-922e-ce707940cca4</tstamps>
+    </comp>
+    <comp ref="LED83">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0afc2fc-2f3e-4e30-9791-d556cd3ac8c9</tstamps>
+    </comp>
+    <comp ref="LED84">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0b0b80-82ed-441c-8afa-d3f686bd50e8</tstamps>
+    </comp>
+    <comp ref="LED85">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>182759f7-58a0-4617-a99a-b1560dd9636b</tstamps>
+    </comp>
+    <comp ref="LED86">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a8a8bfb-1674-4f29-877d-2d1299c4ff1b</tstamps>
+    </comp>
+    <comp ref="LED87">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e8d836-23f1-4d8f-995d-9f4156d75b54</tstamps>
+    </comp>
+    <comp ref="LED88">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc7a855f-1bd9-466e-bcab-856731d1b5ba</tstamps>
+    </comp>
+    <comp ref="LED89">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28b7496a-a693-4b95-b118-fab30edad9c0</tstamps>
+    </comp>
+    <comp ref="LED90">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20cf01e9-dfc3-4dbd-bfe8-e7a519c6740e</tstamps>
+    </comp>
+    <comp ref="LED91">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa49dbca-5296-4b1b-b805-35d1a2805428</tstamps>
+    </comp>
+    <comp ref="LED92">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0e442f8-3016-4fc6-9ca7-21edec8b435d</tstamps>
+    </comp>
+    <comp ref="LED93">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3647618d-f6cb-4f6f-8e32-0c37ebccd882</tstamps>
+    </comp>
+    <comp ref="LED94">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34666d93-7519-4592-acde-cca54490866f</tstamps>
+    </comp>
+    <comp ref="LED95">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e95ce78e-daf8-4f6d-b30c-0f795dc9eb90</tstamps>
+    </comp>
+    <comp ref="LED96">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13ebbe84-67e3-4a84-928d-5465349c7335</tstamps>
+    </comp>
+    <comp ref="LED97">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>567ffa8a-3d2b-4e14-b8e6-e1cbc43d554a</tstamps>
+    </comp>
+    <comp ref="LED98">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935efa73-5a21-4114-bd97-9898ba02065c</tstamps>
+    </comp>
+    <comp ref="LED99">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69b4a633-c6f8-4c25-a8b8-5e6864d21886</tstamps>
+    </comp>
+    <comp ref="LED100">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f8313e2-6606-4984-931b-ce266d990399</tstamps>
+    </comp>
+    <comp ref="LED101">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01561796-920c-49c0-841c-c1cef68fc091</tstamps>
+    </comp>
+    <comp ref="LED102">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c77d179d-bf2a-4232-bb30-94a1d4ab86fc</tstamps>
+    </comp>
+    <comp ref="LED103">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4411084-30c0-418b-8c15-f0dac103afec</tstamps>
+    </comp>
+    <comp ref="LED104">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b385d3ae-a139-4eae-8ef0-4a906d31af2c</tstamps>
+    </comp>
+    <comp ref="LED105">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31405d31-8bb1-40e5-98a8-8c5b2302c0b1</tstamps>
+    </comp>
+    <comp ref="LED106">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19e7941b-4279-4f34-9409-43e76380776c</tstamps>
+    </comp>
+    <comp ref="LED107">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82375387-4449-4464-8062-763d279cbe48</tstamps>
+    </comp>
+    <comp ref="LED108">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b57d3f7-9fdc-4c5b-bfc9-8282a8c50f14</tstamps>
+    </comp>
+    <comp ref="LED109">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3b34998-2d4f-4afa-8d10-88a4d434762f</tstamps>
+    </comp>
+    <comp ref="LED110">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43438ebc-7bad-4a81-b05c-0dc5a25ab5bb</tstamps>
+    </comp>
+    <comp ref="LED111">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ebba465-495d-4e48-9caa-29e6fc3b6f6b</tstamps>
+    </comp>
+    <comp ref="LED112">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14cfbdbb-b7a7-4e2e-9178-9a331db0f790</tstamps>
+    </comp>
+    <comp ref="LED113">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55f0546f-1ee7-4958-b403-eaf087f3dab2</tstamps>
+    </comp>
+    <comp ref="LED114">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>016b60e2-bf26-4f2c-b0af-4a4bc9aa8a4f</tstamps>
+    </comp>
+    <comp ref="LED115">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fafca23d-e382-498c-841e-a68ef40dc31f</tstamps>
+    </comp>
+    <comp ref="LED116">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1de4c2f7-5398-4a89-a3ad-4f4ee691a24e</tstamps>
+    </comp>
+    <comp ref="LED117">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccf019cf-e242-41e9-9131-377eabdc6577</tstamps>
+    </comp>
+    <comp ref="LED118">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e0efc17-8535-4afa-b4f5-995694fbfa72</tstamps>
+    </comp>
+    <comp ref="LED119">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4c30d4f-486f-4d49-aa71-18992b50486c</tstamps>
+    </comp>
+    <comp ref="LED120">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b725314b-e189-488a-821d-4528a5854425</tstamps>
+    </comp>
+    <comp ref="LED121">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42972ff3-0a5c-4ae5-9147-ce24b73f4e88</tstamps>
+    </comp>
+    <comp ref="LED122">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02ea1e56-08e5-49c0-995f-bb7f74589744</tstamps>
+    </comp>
+    <comp ref="LED123">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5c67bde-903b-45f3-9a5e-4070ec1f949b</tstamps>
+    </comp>
+    <comp ref="LED124">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56fc77a4-68ea-4e1e-bef9-9a74a63a8c29</tstamps>
+    </comp>
+    <comp ref="LED125">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4234e725-64b8-4863-b951-d09ecb152942</tstamps>
+    </comp>
+    <comp ref="LED126">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>373a0bde-54ce-4d90-b0fa-f0b3e3e1fc53</tstamps>
+    </comp>
+    <comp ref="LED127">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f494a173-e879-4318-b189-0c28f50d306c</tstamps>
+    </comp>
+    <comp ref="LED128">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01742231-fbbb-42a6-b19d-a9e48583df63</tstamps>
+    </comp>
+    <comp ref="LED129">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7995315-17c0-4fb6-bfee-967ac11401e6</tstamps>
+    </comp>
+    <comp ref="LED130">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e756bfaf-d09c-4254-8d43-0b50bbb96f1c</tstamps>
+    </comp>
+    <comp ref="LED131">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d03034c-9f93-4fa5-a902-2013522777ea</tstamps>
+    </comp>
+    <comp ref="LED132">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06068bd1-461c-4e78-b663-e142a66d7e24</tstamps>
+    </comp>
+    <comp ref="LED133">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d26599dd-baff-462d-8932-4552d1651f01</tstamps>
+    </comp>
+    <comp ref="LED134">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f12e318a-5eab-44c1-a7fa-14fff2d9c61d</tstamps>
+    </comp>
+    <comp ref="LED135">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f291a7f-737a-43aa-bcaa-9eb39fc4a0de</tstamps>
+    </comp>
+    <comp ref="LED136">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bf5be3d-4cf5-4e7b-92e8-731cf9607941</tstamps>
+    </comp>
+    <comp ref="LED137">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1c39e50-6c11-4d5e-aedb-cc3541025f1e</tstamps>
+    </comp>
+    <comp ref="LED138">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe0265b6-84f6-4816-97a1-49274fb5d486</tstamps>
+    </comp>
+    <comp ref="LED139">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c2a412b-ebff-4c2c-a99c-ab9fb034f0b0</tstamps>
+    </comp>
+    <comp ref="LED140">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c14afb-55b6-4cb1-a7dd-1d47e64278c3</tstamps>
+    </comp>
+    <comp ref="LED141">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>748b3725-4a23-42ed-a64c-f8bc63361a3a</tstamps>
+    </comp>
+    <comp ref="LED142">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>117f1304-e011-47c9-911d-f6088320d9ee</tstamps>
+    </comp>
+    <comp ref="LED143">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e3c7e84-9b37-4942-adbd-6cbe01f32a77</tstamps>
+    </comp>
+    <comp ref="LED144">
+      <value>L1SP-DRD0002800000</value>
+      <footprint>PCB Footprints:L1SP-DRD0002800000</footprint>
+      <libsource lib="Schematic Symbols" part="L1SP-DRD0002800000" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79903f8e-30ff-47e5-a306-ca45e955da80</tstamps>
+    </comp>
+    <comp ref="LED145">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f69dfd01-8834-469c-8ff5-e9c46292e4bb</tstamps>
+    </comp>
+    <comp ref="LED146">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbc0e15e-cb5a-471c-a0b1-f00d6e636b87</tstamps>
+    </comp>
+    <comp ref="LED147">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cbe4e6a-e222-42f7-848f-e7b791bc3b9b</tstamps>
+    </comp>
+    <comp ref="LED148">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4748dbf-6636-400e-b672-9e112dc544d7</tstamps>
+    </comp>
+    <comp ref="LED149">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3303eea-b631-478c-b556-b55d4ce12cf9</tstamps>
+    </comp>
+    <comp ref="LED150">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c7721a1-6af1-4c30-a23f-1b99d718dadb</tstamps>
+    </comp>
+    <comp ref="LED151">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd24ed26-911c-4be2-80ff-9901f2e8eb20</tstamps>
+    </comp>
+    <comp ref="LED152">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a28e8a89-c18c-4e52-82c3-8dff7fa03389</tstamps>
+    </comp>
+    <comp ref="LED153">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf3cad9f-56c6-433d-8bc7-b30bb7404826</tstamps>
+    </comp>
+    <comp ref="LED154">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89d0c35a-6f33-4539-8bca-2f86d25e58aa</tstamps>
+    </comp>
+    <comp ref="LED155">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bb053b0-a801-4581-b2f4-21ea5934dd5a</tstamps>
+    </comp>
+    <comp ref="LED156">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>952b9ced-5020-4b00-94d9-6430b1e3202d</tstamps>
+    </comp>
+    <comp ref="LED157">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>017cef29-e197-43df-be65-97180ab925aa</tstamps>
+    </comp>
+    <comp ref="LED158">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55a48e8d-a277-4f32-adce-8e810536174e</tstamps>
+    </comp>
+    <comp ref="LED159">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c9075e4-dc9d-412e-96ed-93791b100115</tstamps>
+    </comp>
+    <comp ref="LED160">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ac188d8-51dc-4392-bb90-c12056250949</tstamps>
+    </comp>
+    <comp ref="LED161">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>573cfa74-b784-4b16-8067-a1592853787f</tstamps>
+    </comp>
+    <comp ref="LED162">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f3b18a7-9540-411f-bdd0-edadec9e9737</tstamps>
+    </comp>
+    <comp ref="LED163">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>535b62b5-9cac-4521-9577-6378afad340f</tstamps>
+    </comp>
+    <comp ref="LED164">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52dc9ecf-d876-430b-b120-caabf1ea49fa</tstamps>
+    </comp>
+    <comp ref="LED165">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ee5ec5a-5e90-4d3e-a393-4efc66652a37</tstamps>
+    </comp>
+    <comp ref="LED166">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be46ec79-9bc3-40a5-a66a-65f59a3d5889</tstamps>
+    </comp>
+    <comp ref="LED167">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af85ea9d-02f3-4802-b85c-3a9c2fe38ef7</tstamps>
+    </comp>
+    <comp ref="LED168">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31c7e659-2ae7-41a0-82cf-5b3fc0406e68</tstamps>
+    </comp>
+    <comp ref="LED169">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>198a3548-cac5-4649-ad07-7bbadfebc3c8</tstamps>
+    </comp>
+    <comp ref="LED170">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9166ea7b-5cf9-4faf-8e58-cdcf7a4c35af</tstamps>
+    </comp>
+    <comp ref="LED171">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfd5f947-f70e-4862-ad0b-cfdaae755d94</tstamps>
+    </comp>
+    <comp ref="LED172">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d01f0ba3-8d1f-4b9a-a611-8c9d37cc5945</tstamps>
+    </comp>
+    <comp ref="LED173">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fd80c38-0559-4b0c-a0b3-407341d8b345</tstamps>
+    </comp>
+    <comp ref="LED174">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1be0797b-4616-41fa-87fe-ef9448737d1a</tstamps>
+    </comp>
+    <comp ref="LED175">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03bdfec2-e855-49aa-8a92-009f9453f51d</tstamps>
+    </comp>
+    <comp ref="LED176">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d88f8b9-2681-4f78-86f5-ff0697c959b1</tstamps>
+    </comp>
+    <comp ref="LED177">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34d53ff4-4f38-4289-8586-fd2a5b65c8ed</tstamps>
+    </comp>
+    <comp ref="LED178">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e00b4660-c1b1-4c6d-946d-ca6f5b5183a9</tstamps>
+    </comp>
+    <comp ref="LED179">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b33df1c-9b31-4cc0-9251-13027f82147e</tstamps>
+    </comp>
+    <comp ref="LED180">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f9a0c0e-81b7-4ff3-b4ad-9274ff2a1496</tstamps>
+    </comp>
+    <comp ref="LED181">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9585c0e8-6ecf-40ba-9442-56d37506dc43</tstamps>
+    </comp>
+    <comp ref="LED182">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de2e30a2-0e88-4402-a4e7-ecba730fbc34</tstamps>
+    </comp>
+    <comp ref="LED183">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90ff7101-17cb-488d-a725-9b70d1ae1f38</tstamps>
+    </comp>
+    <comp ref="LED184">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3402be4a-6863-4d56-8c3d-d54cb23fbed3</tstamps>
+    </comp>
+    <comp ref="LED185">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7321639d-5547-439d-8a56-945cc75f759b</tstamps>
+    </comp>
+    <comp ref="LED186">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47889404-52c0-4dd4-a210-b38276cc5874</tstamps>
+    </comp>
+    <comp ref="LED187">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77afed83-1cb8-48a1-99f1-1e8f3d819332</tstamps>
+    </comp>
+    <comp ref="LED188">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c0bee99-edaf-4578-8a38-edd706a71eb5</tstamps>
+    </comp>
+    <comp ref="LED189">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dcc3e41-e19d-4a05-90fc-6dc76320e60f</tstamps>
+    </comp>
+    <comp ref="LED190">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b921784c-8ec5-4207-a179-941f3f90d0ae</tstamps>
+    </comp>
+    <comp ref="LED191">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3d76137-93f4-4135-b43b-36774896b55e</tstamps>
+    </comp>
+    <comp ref="LED192">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3cb8956-96a6-4054-87de-4cda42db4475</tstamps>
+    </comp>
+    <comp ref="LED193">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7613165-fba8-4c66-bb4e-8e5e53ebdcf4</tstamps>
+    </comp>
+    <comp ref="LED194">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd670dee-fa82-4832-b717-73eaf526dc60</tstamps>
+    </comp>
+    <comp ref="LED195">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69bf7d8f-495d-45e5-a1db-220d3a8f7d51</tstamps>
+    </comp>
+    <comp ref="LED196">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>397a342b-e0fb-4562-b83a-65e4c35559da</tstamps>
+    </comp>
+    <comp ref="LED197">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56ec163c-d690-4a3c-8920-559e8f523547</tstamps>
+    </comp>
+    <comp ref="LED198">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4ca3634-ab5d-4772-bb7b-c0a8b528a274</tstamps>
+    </comp>
+    <comp ref="LED199">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67c07122-92f5-43f8-82c2-4f2764c4c167</tstamps>
+    </comp>
+    <comp ref="LED200">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c244122a-c856-47c3-9e8d-229f4fe8f64e</tstamps>
+    </comp>
+    <comp ref="LED201">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99728e4b-ad3a-41e9-8bd5-f85491eac44b</tstamps>
+    </comp>
+    <comp ref="LED202">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>887a7830-060d-4cd6-832a-2809679b8f34</tstamps>
+    </comp>
+    <comp ref="LED203">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc155c00-c7ff-46a4-a1c4-55d9c26b7aba</tstamps>
+    </comp>
+    <comp ref="LED204">
+      <value>SPMWHD32AMH5XAU5SL</value>
+      <footprint>PCB Footprints:SPMWHD32AMH5XAU5SL</footprint>
+      <libsource lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83361c73-628e-4bb1-a9a8-84514d87e9c8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71de0d02-0888-4b6a-b86c-835eb86b1e06</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1da5986a-549e-4ec2-8aac-85694eed65c6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>320516ec-cd9e-4687-9405-62196db96716</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee7a1531-35af-4f63-af4c-e5ef06edcce8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbafebe3-8a13-40df-8184-b46ff34ccca5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6beeabcf-e00a-42d0-9fc8-53f81333bf07</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2520d299-fbc2-4ba3-9c7f-ff0f80c58a58</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88da4e32-156c-463b-9d08-446eb7107013</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26d13359-8113-410b-acfc-29f8db381b57</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47005857-5bb7-483f-b42e-93bc70daeb5c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f6128b6-d35f-4175-80d5-df69da23e67c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>5.6R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10cf078e-6c84-4a93-b8c3-731d1b9daa20</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e518c2a-4cb7-4599-a1fa-5b9f847da7d3</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0834dc4-9860-4e35-bd96-4830953b6b3e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>468a72b8-d2b9-435f-8427-d315b623f943</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>338c6ac0-f2c3-4a0a-a0e6-9ea545e9911f</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f61ebf8e-8a02-42f2-9d97-38e5a682eecd</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f259020-2ca2-443a-b912-390fee9dbfc5</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5be5be68-bdf4-4c01-8423-97722690c96a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cd762df-1b0e-4d1d-9eae-0b076addf2f7</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e734b89c-193a-4ec2-af16-41f40bd18115</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a87099f-585a-47a2-a921-066e13ab3707</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>297c6b09-ef94-4617-8583-4ae6c081f5f1</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>NCR321ZX</value>
+      <footprint>PCB Footprints:NCR321ZX</footprint>
+      <libsource lib="Schematic Symbols" part="NCR321ZX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d3b0f77-a0af-4065-b203-795bc23e8a1f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Schematic Symbols" part="L1SP-DRD0002800000">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">L1SP-DRD0002800000</field>
+        <field name="Footprint">PCB Footprints:L1SP-DRD0002800000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Schematic Symbols" part="NCR321ZX">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCR321ZX</field>
+        <field name="Footprint">PCB Footprints:NCR321ZX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VEN" type="passive"/>
+        <pin num="2" name="REXT" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="IOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Schematic Symbols" part="SPMWHD32AMH5XAU5SL">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">SPMWHD32AMH5XAU5SL</field>
+        <field name="Footprint">PCB Footprints:SPMWHD32AMH5XAU5SL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Schematic Symbols">
+      <uri>C:/Users/einst/OneDrive/Desktop/Kicad Projects/PROJECTS/Fiverr Client zanbevcar PCB Design/Libraries/Schematic Symbols/Schematic Symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pintype="passive"/>
+      <node ref="LED13" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(LED10-Pad2)">
+      <node ref="LED10" pin="2" pintype="passive"/>
+      <node ref="LED22" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(LED11-Pad2)">
+      <node ref="LED11" pin="2" pintype="passive"/>
+      <node ref="LED23" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(LED12-Pad2)">
+      <node ref="LED12" pin="2" pintype="passive"/>
+      <node ref="LED24" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(LED13-Pad2)">
+      <node ref="LED13" pin="2" pintype="passive"/>
+      <node ref="LED25" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(LED14-Pad1)">
+      <node ref="LED14" pin="1" pintype="passive"/>
+      <node ref="LED2" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(LED14-Pad2)">
+      <node ref="LED14" pin="2" pintype="passive"/>
+      <node ref="LED26" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(LED15-Pad1)">
+      <node ref="LED15" pin="1" pintype="passive"/>
+      <node ref="LED3" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(LED15-Pad2)">
+      <node ref="LED15" pin="2" pintype="passive"/>
+      <node ref="LED27" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(LED16-Pad1)">
+      <node ref="LED16" pin="1" pintype="passive"/>
+      <node ref="LED4" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(LED16-Pad2)">
+      <node ref="LED16" pin="2" pintype="passive"/>
+      <node ref="LED28" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(LED17-Pad1)">
+      <node ref="LED17" pin="1" pintype="passive"/>
+      <node ref="LED5" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(LED17-Pad2)">
+      <node ref="LED17" pin="2" pintype="passive"/>
+      <node ref="LED29" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(LED18-Pad1)">
+      <node ref="LED18" pin="1" pintype="passive"/>
+      <node ref="LED6" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(LED18-Pad2)">
+      <node ref="LED18" pin="2" pintype="passive"/>
+      <node ref="LED30" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(LED19-Pad1)">
+      <node ref="LED19" pin="1" pintype="passive"/>
+      <node ref="LED7" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(LED19-Pad2)">
+      <node ref="LED19" pin="2" pintype="passive"/>
+      <node ref="LED31" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(LED20-Pad1)">
+      <node ref="LED20" pin="1" pintype="passive"/>
+      <node ref="LED8" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(LED20-Pad2)">
+      <node ref="LED20" pin="2" pintype="passive"/>
+      <node ref="LED32" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(LED21-Pad1)">
+      <node ref="LED21" pin="1" pintype="passive"/>
+      <node ref="LED9" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(LED21-Pad2)">
+      <node ref="LED21" pin="2" pintype="passive"/>
+      <node ref="LED33" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(LED22-Pad2)">
+      <node ref="LED22" pin="2" pintype="passive"/>
+      <node ref="LED34" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(LED23-Pad2)">
+      <node ref="LED23" pin="2" pintype="passive"/>
+      <node ref="LED35" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(LED24-Pad2)">
+      <node ref="LED24" pin="2" pintype="passive"/>
+      <node ref="LED36" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(LED25-Pad2)">
+      <node ref="LED25" pin="2" pintype="passive"/>
+      <node ref="LED37" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(LED26-Pad2)">
+      <node ref="LED26" pin="2" pintype="passive"/>
+      <node ref="LED38" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(LED27-Pad2)">
+      <node ref="LED27" pin="2" pintype="passive"/>
+      <node ref="LED39" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(LED28-Pad2)">
+      <node ref="LED28" pin="2" pintype="passive"/>
+      <node ref="LED40" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(LED29-Pad2)">
+      <node ref="LED29" pin="2" pintype="passive"/>
+      <node ref="LED41" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(LED30-Pad2)">
+      <node ref="LED30" pin="2" pintype="passive"/>
+      <node ref="LED42" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(LED31-Pad2)">
+      <node ref="LED31" pin="2" pintype="passive"/>
+      <node ref="LED43" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(LED32-Pad2)">
+      <node ref="LED32" pin="2" pintype="passive"/>
+      <node ref="LED44" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(LED33-Pad2)">
+      <node ref="LED33" pin="2" pintype="passive"/>
+      <node ref="LED45" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(LED34-Pad2)">
+      <node ref="LED34" pin="2" pintype="passive"/>
+      <node ref="LED46" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(LED35-Pad2)">
+      <node ref="LED35" pin="2" pintype="passive"/>
+      <node ref="LED47" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(LED36-Pad2)">
+      <node ref="LED36" pin="2" pintype="passive"/>
+      <node ref="LED48" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(LED37-Pad2)">
+      <node ref="LED37" pin="2" pintype="passive"/>
+      <node ref="LED49" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(LED38-Pad2)">
+      <node ref="LED38" pin="2" pintype="passive"/>
+      <node ref="LED50" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(LED39-Pad2)">
+      <node ref="LED39" pin="2" pintype="passive"/>
+      <node ref="LED51" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(LED40-Pad2)">
+      <node ref="LED40" pin="2" pintype="passive"/>
+      <node ref="LED52" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(LED41-Pad2)">
+      <node ref="LED41" pin="2" pintype="passive"/>
+      <node ref="LED53" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(LED42-Pad2)">
+      <node ref="LED42" pin="2" pintype="passive"/>
+      <node ref="LED54" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(LED43-Pad2)">
+      <node ref="LED43" pin="2" pintype="passive"/>
+      <node ref="LED55" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(LED44-Pad2)">
+      <node ref="LED44" pin="2" pintype="passive"/>
+      <node ref="LED56" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(LED45-Pad2)">
+      <node ref="LED45" pin="2" pintype="passive"/>
+      <node ref="LED57" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(LED46-Pad2)">
+      <node ref="LED46" pin="2" pintype="passive"/>
+      <node ref="LED58" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(LED47-Pad2)">
+      <node ref="LED47" pin="2" pintype="passive"/>
+      <node ref="LED59" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(LED48-Pad2)">
+      <node ref="LED48" pin="2" pintype="passive"/>
+      <node ref="LED60" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(LED49-Pad2)">
+      <node ref="LED49" pin="2" pintype="passive"/>
+      <node ref="LED61" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(LED50-Pad2)">
+      <node ref="LED50" pin="2" pintype="passive"/>
+      <node ref="LED62" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(LED51-Pad2)">
+      <node ref="LED51" pin="2" pintype="passive"/>
+      <node ref="LED63" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(LED52-Pad2)">
+      <node ref="LED52" pin="2" pintype="passive"/>
+      <node ref="LED64" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(LED53-Pad2)">
+      <node ref="LED53" pin="2" pintype="passive"/>
+      <node ref="LED65" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(LED54-Pad2)">
+      <node ref="LED54" pin="2" pintype="passive"/>
+      <node ref="LED66" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(LED55-Pad2)">
+      <node ref="LED55" pin="2" pintype="passive"/>
+      <node ref="LED67" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(LED56-Pad2)">
+      <node ref="LED56" pin="2" pintype="passive"/>
+      <node ref="LED68" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(LED57-Pad2)">
+      <node ref="LED57" pin="2" pintype="passive"/>
+      <node ref="LED69" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(LED58-Pad2)">
+      <node ref="LED58" pin="2" pintype="passive"/>
+      <node ref="LED70" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(LED59-Pad2)">
+      <node ref="LED59" pin="2" pintype="passive"/>
+      <node ref="LED71" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(LED60-Pad2)">
+      <node ref="LED60" pin="2" pintype="passive"/>
+      <node ref="LED72" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(LED61-Pad1)">
+      <node ref="LED61" pin="1" pintype="passive"/>
+      <node ref="LED73" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(LED62-Pad1)">
+      <node ref="LED62" pin="1" pintype="passive"/>
+      <node ref="LED74" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(LED63-Pad1)">
+      <node ref="LED63" pin="1" pintype="passive"/>
+      <node ref="LED75" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(LED64-Pad1)">
+      <node ref="LED64" pin="1" pintype="passive"/>
+      <node ref="LED76" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(LED65-Pad1)">
+      <node ref="LED65" pin="1" pintype="passive"/>
+      <node ref="LED77" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(LED66-Pad1)">
+      <node ref="LED66" pin="1" pintype="passive"/>
+      <node ref="LED78" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(LED67-Pad1)">
+      <node ref="LED67" pin="1" pintype="passive"/>
+      <node ref="LED79" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(LED68-Pad1)">
+      <node ref="LED68" pin="1" pintype="passive"/>
+      <node ref="LED80" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(LED69-Pad1)">
+      <node ref="LED69" pin="1" pintype="passive"/>
+      <node ref="LED81" pin="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(LED70-Pad1)">
+      <node ref="LED70" pin="1" pintype="passive"/>
+      <node ref="LED82" pin="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(LED71-Pad1)">
+      <node ref="LED71" pin="1" pintype="passive"/>
+      <node ref="LED83" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(LED72-Pad1)">
+      <node ref="LED72" pin="1" pintype="passive"/>
+      <node ref="LED84" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(LED73-Pad2)">
+      <node ref="LED73" pin="2" pintype="passive"/>
+      <node ref="LED85" pin="1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(LED74-Pad2)">
+      <node ref="LED74" pin="2" pintype="passive"/>
+      <node ref="LED86" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(LED75-Pad2)">
+      <node ref="LED75" pin="2" pintype="passive"/>
+      <node ref="LED87" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(LED76-Pad2)">
+      <node ref="LED76" pin="2" pintype="passive"/>
+      <node ref="LED88" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(LED77-Pad2)">
+      <node ref="LED77" pin="2" pintype="passive"/>
+      <node ref="LED89" pin="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(LED78-Pad2)">
+      <node ref="LED78" pin="2" pintype="passive"/>
+      <node ref="LED90" pin="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(LED79-Pad2)">
+      <node ref="LED79" pin="2" pintype="passive"/>
+      <node ref="LED91" pin="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(LED80-Pad2)">
+      <node ref="LED80" pin="2" pintype="passive"/>
+      <node ref="LED92" pin="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(LED81-Pad2)">
+      <node ref="LED81" pin="2" pintype="passive"/>
+      <node ref="LED93" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(LED82-Pad2)">
+      <node ref="LED82" pin="2" pintype="passive"/>
+      <node ref="LED94" pin="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(LED83-Pad2)">
+      <node ref="LED83" pin="2" pintype="passive"/>
+      <node ref="LED95" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(LED84-Pad2)">
+      <node ref="LED84" pin="2" pintype="passive"/>
+      <node ref="LED96" pin="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(LED85-Pad2)">
+      <node ref="LED85" pin="2" pintype="passive"/>
+      <node ref="LED97" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(LED86-Pad2)">
+      <node ref="LED86" pin="2" pintype="passive"/>
+      <node ref="LED98" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(LED87-Pad2)">
+      <node ref="LED87" pin="2" pintype="passive"/>
+      <node ref="LED99" pin="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(LED100-Pad1)">
+      <node ref="LED100" pin="1" pintype="passive"/>
+      <node ref="LED88" pin="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(LED100-Pad2)">
+      <node ref="LED100" pin="2" pintype="passive"/>
+      <node ref="LED112" pin="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(LED101-Pad1)">
+      <node ref="LED101" pin="1" pintype="passive"/>
+      <node ref="LED89" pin="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(LED101-Pad2)">
+      <node ref="LED101" pin="2" pintype="passive"/>
+      <node ref="LED113" pin="1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(LED102-Pad1)">
+      <node ref="LED102" pin="1" pintype="passive"/>
+      <node ref="LED90" pin="2" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(LED102-Pad2)">
+      <node ref="LED102" pin="2" pintype="passive"/>
+      <node ref="LED114" pin="1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(LED103-Pad1)">
+      <node ref="LED103" pin="1" pintype="passive"/>
+      <node ref="LED91" pin="2" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(LED103-Pad2)">
+      <node ref="LED103" pin="2" pintype="passive"/>
+      <node ref="LED115" pin="1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(LED104-Pad1)">
+      <node ref="LED104" pin="1" pintype="passive"/>
+      <node ref="LED92" pin="2" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(LED104-Pad2)">
+      <node ref="LED104" pin="2" pintype="passive"/>
+      <node ref="LED116" pin="1" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(LED105-Pad1)">
+      <node ref="LED105" pin="1" pintype="passive"/>
+      <node ref="LED93" pin="2" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(LED105-Pad2)">
+      <node ref="LED105" pin="2" pintype="passive"/>
+      <node ref="LED117" pin="1" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(LED106-Pad1)">
+      <node ref="LED106" pin="1" pintype="passive"/>
+      <node ref="LED94" pin="2" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(LED106-Pad2)">
+      <node ref="LED106" pin="2" pintype="passive"/>
+      <node ref="LED118" pin="1" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(LED107-Pad1)">
+      <node ref="LED107" pin="1" pintype="passive"/>
+      <node ref="LED95" pin="2" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(LED107-Pad2)">
+      <node ref="LED107" pin="2" pintype="passive"/>
+      <node ref="LED119" pin="1" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(LED108-Pad1)">
+      <node ref="LED108" pin="1" pintype="passive"/>
+      <node ref="LED96" pin="2" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(LED108-Pad2)">
+      <node ref="LED108" pin="2" pintype="passive"/>
+      <node ref="LED120" pin="1" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(LED109-Pad1)">
+      <node ref="LED109" pin="1" pintype="passive"/>
+      <node ref="LED97" pin="2" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(LED109-Pad2)">
+      <node ref="LED109" pin="2" pintype="passive"/>
+      <node ref="LED121" pin="1" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(LED110-Pad1)">
+      <node ref="LED110" pin="1" pintype="passive"/>
+      <node ref="LED98" pin="2" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(LED110-Pad2)">
+      <node ref="LED110" pin="2" pintype="passive"/>
+      <node ref="LED122" pin="1" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(LED111-Pad1)">
+      <node ref="LED111" pin="1" pintype="passive"/>
+      <node ref="LED99" pin="2" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(LED111-Pad2)">
+      <node ref="LED111" pin="2" pintype="passive"/>
+      <node ref="LED123" pin="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(LED112-Pad2)">
+      <node ref="LED112" pin="2" pintype="passive"/>
+      <node ref="LED124" pin="1" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(LED113-Pad2)">
+      <node ref="LED113" pin="2" pintype="passive"/>
+      <node ref="LED125" pin="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(LED114-Pad2)">
+      <node ref="LED114" pin="2" pintype="passive"/>
+      <node ref="LED126" pin="1" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(LED115-Pad2)">
+      <node ref="LED115" pin="2" pintype="passive"/>
+      <node ref="LED127" pin="1" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(LED116-Pad2)">
+      <node ref="LED116" pin="2" pintype="passive"/>
+      <node ref="LED128" pin="1" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(LED117-Pad2)">
+      <node ref="LED117" pin="2" pintype="passive"/>
+      <node ref="LED129" pin="1" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(LED118-Pad2)">
+      <node ref="LED118" pin="2" pintype="passive"/>
+      <node ref="LED130" pin="1" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(LED119-Pad2)">
+      <node ref="LED119" pin="2" pintype="passive"/>
+      <node ref="LED131" pin="1" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(LED120-Pad2)">
+      <node ref="LED120" pin="2" pintype="passive"/>
+      <node ref="LED132" pin="1" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(LED121-Pad2)">
+      <node ref="LED121" pin="2" pintype="passive"/>
+      <node ref="LED133" pin="2" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(LED122-Pad2)">
+      <node ref="LED122" pin="2" pintype="passive"/>
+      <node ref="LED134" pin="2" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(LED123-Pad2)">
+      <node ref="LED123" pin="2" pintype="passive"/>
+      <node ref="LED135" pin="2" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(LED124-Pad2)">
+      <node ref="LED124" pin="2" pintype="passive"/>
+      <node ref="LED136" pin="2" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(LED125-Pad2)">
+      <node ref="LED125" pin="2" pintype="passive"/>
+      <node ref="LED137" pin="2" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(LED126-Pad2)">
+      <node ref="LED126" pin="2" pintype="passive"/>
+      <node ref="LED138" pin="2" pintype="passive"/>
+    </net>
+    <net code="128" name="Net-(LED127-Pad2)">
+      <node ref="LED127" pin="2" pintype="passive"/>
+      <node ref="LED139" pin="2" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(LED128-Pad2)">
+      <node ref="LED128" pin="2" pintype="passive"/>
+      <node ref="LED140" pin="2" pintype="passive"/>
+    </net>
+    <net code="130" name="Net-(LED129-Pad2)">
+      <node ref="LED129" pin="2" pintype="passive"/>
+      <node ref="LED141" pin="2" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(LED130-Pad2)">
+      <node ref="LED130" pin="2" pintype="passive"/>
+      <node ref="LED142" pin="2" pintype="passive"/>
+    </net>
+    <net code="132" name="Net-(LED131-Pad2)">
+      <node ref="LED131" pin="2" pintype="passive"/>
+      <node ref="LED143" pin="2" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(LED132-Pad2)">
+      <node ref="LED132" pin="2" pintype="passive"/>
+      <node ref="LED144" pin="2" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(LED133-Pad1)">
+      <node ref="LED133" pin="1" pintype="passive"/>
+      <node ref="LED145" pin="1" pintype="passive"/>
+    </net>
+    <net code="135" name="Net-(LED134-Pad1)">
+      <node ref="LED134" pin="1" pintype="passive"/>
+      <node ref="LED146" pin="1" pintype="passive"/>
+    </net>
+    <net code="136" name="Net-(LED135-Pad1)">
+      <node ref="LED135" pin="1" pintype="passive"/>
+      <node ref="LED147" pin="1" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(LED136-Pad1)">
+      <node ref="LED136" pin="1" pintype="passive"/>
+      <node ref="LED148" pin="1" pintype="passive"/>
+    </net>
+    <net code="138" name="Net-(LED137-Pad1)">
+      <node ref="LED137" pin="1" pintype="passive"/>
+      <node ref="LED149" pin="1" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(LED138-Pad1)">
+      <node ref="LED138" pin="1" pintype="passive"/>
+      <node ref="LED150" pin="1" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(LED139-Pad1)">
+      <node ref="LED139" pin="1" pintype="passive"/>
+      <node ref="LED151" pin="1" pintype="passive"/>
+    </net>
+    <net code="141" name="Net-(LED140-Pad1)">
+      <node ref="LED140" pin="1" pintype="passive"/>
+      <node ref="LED152" pin="1" pintype="passive"/>
+    </net>
+    <net code="142" name="Net-(LED141-Pad1)">
+      <node ref="LED141" pin="1" pintype="passive"/>
+      <node ref="LED153" pin="1" pintype="passive"/>
+    </net>
+    <net code="143" name="Net-(LED142-Pad1)">
+      <node ref="LED142" pin="1" pintype="passive"/>
+      <node ref="LED154" pin="1" pintype="passive"/>
+    </net>
+    <net code="144" name="Net-(LED143-Pad1)">
+      <node ref="LED143" pin="1" pintype="passive"/>
+      <node ref="LED155" pin="1" pintype="passive"/>
+    </net>
+    <net code="145" name="Net-(LED144-Pad1)">
+      <node ref="LED144" pin="1" pintype="passive"/>
+      <node ref="LED156" pin="1" pintype="passive"/>
+    </net>
+    <net code="146" name="Net-(LED145-Pad2)">
+      <node ref="LED145" pin="2" pintype="passive"/>
+      <node ref="LED157" pin="1" pintype="passive"/>
+    </net>
+    <net code="147" name="Net-(LED146-Pad2)">
+      <node ref="LED146" pin="2" pintype="passive"/>
+      <node ref="LED158" pin="1" pintype="passive"/>
+    </net>
+    <net code="148" name="Net-(LED147-Pad2)">
+      <node ref="LED147" pin="2" pintype="passive"/>
+      <node ref="LED159" pin="1" pintype="passive"/>
+    </net>
+    <net code="149" name="Net-(LED148-Pad2)">
+      <node ref="LED148" pin="2" pintype="passive"/>
+      <node ref="LED160" pin="1" pintype="passive"/>
+    </net>
+    <net code="150" name="Net-(LED149-Pad2)">
+      <node ref="LED149" pin="2" pintype="passive"/>
+      <node ref="LED161" pin="1" pintype="passive"/>
+    </net>
+    <net code="151" name="Net-(LED150-Pad2)">
+      <node ref="LED150" pin="2" pintype="passive"/>
+      <node ref="LED162" pin="1" pintype="passive"/>
+    </net>
+    <net code="152" name="Net-(LED151-Pad2)">
+      <node ref="LED151" pin="2" pintype="passive"/>
+      <node ref="LED163" pin="1" pintype="passive"/>
+    </net>
+    <net code="153" name="Net-(LED152-Pad2)">
+      <node ref="LED152" pin="2" pintype="passive"/>
+      <node ref="LED164" pin="1" pintype="passive"/>
+    </net>
+    <net code="154" name="Net-(LED153-Pad2)">
+      <node ref="LED153" pin="2" pintype="passive"/>
+      <node ref="LED165" pin="1" pintype="passive"/>
+    </net>
+    <net code="155" name="Net-(LED154-Pad2)">
+      <node ref="LED154" pin="2" pintype="passive"/>
+      <node ref="LED166" pin="1" pintype="passive"/>
+    </net>
+    <net code="156" name="Net-(LED155-Pad2)">
+      <node ref="LED155" pin="2" pintype="passive"/>
+      <node ref="LED167" pin="1" pintype="passive"/>
+    </net>
+    <net code="157" name="Net-(LED156-Pad2)">
+      <node ref="LED156" pin="2" pintype="passive"/>
+      <node ref="LED168" pin="1" pintype="passive"/>
+    </net>
+    <net code="158" name="Net-(LED157-Pad2)">
+      <node ref="LED157" pin="2" pintype="passive"/>
+      <node ref="LED169" pin="1" pintype="passive"/>
+    </net>
+    <net code="159" name="Net-(LED158-Pad2)">
+      <node ref="LED158" pin="2" pintype="passive"/>
+      <node ref="LED170" pin="1" pintype="passive"/>
+    </net>
+    <net code="160" name="Net-(LED159-Pad2)">
+      <node ref="LED159" pin="2" pintype="passive"/>
+      <node ref="LED171" pin="1" pintype="passive"/>
+    </net>
+    <net code="161" name="Net-(LED160-Pad2)">
+      <node ref="LED160" pin="2" pintype="passive"/>
+      <node ref="LED172" pin="1" pintype="passive"/>
+    </net>
+    <net code="162" name="Net-(LED161-Pad2)">
+      <node ref="LED161" pin="2" pintype="passive"/>
+      <node ref="LED173" pin="1" pintype="passive"/>
+    </net>
+    <net code="163" name="Net-(LED162-Pad2)">
+      <node ref="LED162" pin="2" pintype="passive"/>
+      <node ref="LED174" pin="1" pintype="passive"/>
+    </net>
+    <net code="164" name="Net-(LED163-Pad2)">
+      <node ref="LED163" pin="2" pintype="passive"/>
+      <node ref="LED175" pin="1" pintype="passive"/>
+    </net>
+    <net code="165" name="Net-(LED164-Pad2)">
+      <node ref="LED164" pin="2" pintype="passive"/>
+      <node ref="LED176" pin="1" pintype="passive"/>
+    </net>
+    <net code="166" name="Net-(LED165-Pad2)">
+      <node ref="LED165" pin="2" pintype="passive"/>
+      <node ref="LED177" pin="1" pintype="passive"/>
+    </net>
+    <net code="167" name="Net-(LED166-Pad2)">
+      <node ref="LED166" pin="2" pintype="passive"/>
+      <node ref="LED178" pin="1" pintype="passive"/>
+    </net>
+    <net code="168" name="Net-(LED167-Pad2)">
+      <node ref="LED167" pin="2" pintype="passive"/>
+      <node ref="LED179" pin="1" pintype="passive"/>
+    </net>
+    <net code="169" name="Net-(LED168-Pad2)">
+      <node ref="LED168" pin="2" pintype="passive"/>
+      <node ref="LED180" pin="1" pintype="passive"/>
+    </net>
+    <net code="170" name="Net-(LED169-Pad2)">
+      <node ref="LED169" pin="2" pintype="passive"/>
+      <node ref="LED181" pin="1" pintype="passive"/>
+    </net>
+    <net code="171" name="Net-(LED170-Pad2)">
+      <node ref="LED170" pin="2" pintype="passive"/>
+      <node ref="LED182" pin="1" pintype="passive"/>
+    </net>
+    <net code="172" name="Net-(LED171-Pad2)">
+      <node ref="LED171" pin="2" pintype="passive"/>
+      <node ref="LED183" pin="1" pintype="passive"/>
+    </net>
+    <net code="173" name="Net-(LED172-Pad2)">
+      <node ref="LED172" pin="2" pintype="passive"/>
+      <node ref="LED184" pin="1" pintype="passive"/>
+    </net>
+    <net code="174" name="Net-(LED173-Pad2)">
+      <node ref="LED173" pin="2" pintype="passive"/>
+      <node ref="LED185" pin="1" pintype="passive"/>
+    </net>
+    <net code="175" name="Net-(LED174-Pad2)">
+      <node ref="LED174" pin="2" pintype="passive"/>
+      <node ref="LED186" pin="1" pintype="passive"/>
+    </net>
+    <net code="176" name="Net-(LED175-Pad2)">
+      <node ref="LED175" pin="2" pintype="passive"/>
+      <node ref="LED187" pin="1" pintype="passive"/>
+    </net>
+    <net code="177" name="Net-(LED176-Pad2)">
+      <node ref="LED176" pin="2" pintype="passive"/>
+      <node ref="LED188" pin="1" pintype="passive"/>
+    </net>
+    <net code="178" name="Net-(LED177-Pad2)">
+      <node ref="LED177" pin="2" pintype="passive"/>
+      <node ref="LED189" pin="1" pintype="passive"/>
+    </net>
+    <net code="179" name="Net-(LED178-Pad2)">
+      <node ref="LED178" pin="2" pintype="passive"/>
+      <node ref="LED190" pin="1" pintype="passive"/>
+    </net>
+    <net code="180" name="Net-(LED179-Pad2)">
+      <node ref="LED179" pin="2" pintype="passive"/>
+      <node ref="LED191" pin="1" pintype="passive"/>
+    </net>
+    <net code="181" name="Net-(LED180-Pad2)">
+      <node ref="LED180" pin="2" pintype="passive"/>
+      <node ref="LED192" pin="1" pintype="passive"/>
+    </net>
+    <net code="182" name="Net-(LED181-Pad2)">
+      <node ref="LED181" pin="2" pintype="passive"/>
+      <node ref="LED193" pin="1" pintype="passive"/>
+    </net>
+    <net code="183" name="Net-(LED182-Pad2)">
+      <node ref="LED182" pin="2" pintype="passive"/>
+      <node ref="LED194" pin="1" pintype="passive"/>
+    </net>
+    <net code="184" name="Net-(LED183-Pad2)">
+      <node ref="LED183" pin="2" pintype="passive"/>
+      <node ref="LED195" pin="1" pintype="passive"/>
+    </net>
+    <net code="185" name="Net-(LED184-Pad2)">
+      <node ref="LED184" pin="2" pintype="passive"/>
+      <node ref="LED196" pin="1" pintype="passive"/>
+    </net>
+    <net code="186" name="Net-(LED185-Pad2)">
+      <node ref="LED185" pin="2" pintype="passive"/>
+      <node ref="LED197" pin="1" pintype="passive"/>
+    </net>
+    <net code="187" name="Net-(LED186-Pad2)">
+      <node ref="LED186" pin="2" pintype="passive"/>
+      <node ref="LED198" pin="1" pintype="passive"/>
+    </net>
+    <net code="188" name="Net-(LED187-Pad2)">
+      <node ref="LED187" pin="2" pintype="passive"/>
+      <node ref="LED199" pin="1" pintype="passive"/>
+    </net>
+    <net code="189" name="Net-(LED188-Pad2)">
+      <node ref="LED188" pin="2" pintype="passive"/>
+      <node ref="LED200" pin="1" pintype="passive"/>
+    </net>
+    <net code="190" name="Net-(LED189-Pad2)">
+      <node ref="LED189" pin="2" pintype="passive"/>
+      <node ref="LED201" pin="1" pintype="passive"/>
+    </net>
+    <net code="191" name="Net-(LED190-Pad2)">
+      <node ref="LED190" pin="2" pintype="passive"/>
+      <node ref="LED202" pin="1" pintype="passive"/>
+    </net>
+    <net code="192" name="Net-(LED191-Pad2)">
+      <node ref="LED191" pin="2" pintype="passive"/>
+      <node ref="LED203" pin="1" pintype="passive"/>
+    </net>
+    <net code="193" name="Net-(LED192-Pad2)">
+      <node ref="LED192" pin="2" pintype="passive"/>
+      <node ref="LED204" pin="1" pintype="passive"/>
+    </net>
+    <net code="194" name="Net-(U1-IOUT)">
+      <node ref="LED193" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="195" name="Net-(U1-REXT)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="196" name="Net-(U2-IOUT)">
+      <node ref="LED194" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="197" name="Net-(U2-REXT)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="198" name="Net-(U3-IOUT)">
+      <node ref="LED195" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="199" name="Net-(U3-REXT)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="200" name="Net-(U4-IOUT)">
+      <node ref="LED196" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="201" name="Net-(U4-REXT)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="202" name="Net-(U5-IOUT)">
+      <node ref="LED197" pin="2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="203" name="Net-(U5-REXT)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="204" name="Net-(U6-IOUT)">
+      <node ref="LED198" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="205" name="Net-(U6-REXT)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="206" name="Net-(U7-IOUT)">
+      <node ref="LED199" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="207" name="Net-(U7-REXT)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="208" name="Net-(U8-IOUT)">
+      <node ref="LED200" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="209" name="Net-(U8-REXT)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="210" name="Net-(U9-IOUT)">
+      <node ref="LED201" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="211" name="Net-(U9-REXT)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="212" name="Net-(U10-IOUT)">
+      <node ref="LED202" pin="2" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="213" name="Net-(U10-REXT)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="214" name="Net-(U11-IOUT)">
+      <node ref="LED203" pin="2" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="215" name="Net-(U11-REXT)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="216" name="Net-(U12-IOUT)">
+      <node ref="LED204" pin="2" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="IOUT" pintype="passive"/>
+    </net>
+    <net code="217" name="Net-(U12-REXT)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="218" name="PWM">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U12" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="VEN" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="VEN" pintype="passive"/>
+    </net>
+    <net code="219" name="VCC">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LED1" pin="1" pintype="passive"/>
+      <node ref="LED10" pin="1" pintype="passive"/>
+      <node ref="LED11" pin="1" pintype="passive"/>
+      <node ref="LED12" pin="1" pintype="passive"/>
+      <node ref="LED2" pin="1" pintype="passive"/>
+      <node ref="LED3" pin="1" pintype="passive"/>
+      <node ref="LED4" pin="1" pintype="passive"/>
+      <node ref="LED5" pin="1" pintype="passive"/>
+      <node ref="LED6" pin="1" pintype="passive"/>
+      <node ref="LED7" pin="1" pintype="passive"/>
+      <node ref="LED8" pin="1" pintype="passive"/>
+      <node ref="LED9" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>

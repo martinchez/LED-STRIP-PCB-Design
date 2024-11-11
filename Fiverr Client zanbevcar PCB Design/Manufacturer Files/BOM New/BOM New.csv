@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,Manufacturer Part Number,Digikey Link,Qty
+Conn_01x01,"    J2, J5",PCB Footprints:signal pad,-,-,2
+Conn_01x01,"    J1, J3, J4, J6",PCB Footprints:power pad,-,-,4
+L1SP-DRD0002800000,"    LED61-LED72, LED133-LED144",PCB Footprints:L1SP-DRD0002800000,L1SP-DRD0002800000,https://www.digikey.si/en/products/detail/lumileds/L1SP-DRD0002800000/9805570,24
+SPMWHD32AMH5XAU5SL,"    LED1-LED60, LED73-LED132, LED145-LED204",PCB Footprints:SPMWHD32AMH5XAU5SL,SPMWHD32AMH5XAU5SL,https://www.digikey.si/en/products/detail/samsung-semiconductor-inc/SPMWHD32AMH5XAU5SL/12083566,180
+5.6R,    R1-R12,Resistor_SMD:R_1206_3216Metric,RMCF1206FT5R60,https://www.digikey.si/en/products/detail/stackpole-electronics-inc/RMCF1206FT5R60/1759510,12
+NCR321ZX,    U1-U12,PCB Footprints:NCR321ZX,NCR321ZX,https://www.digikey.si/en/products/detail/nexperia-usa-inc/NCR321ZX/9998334,12
+"U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12",12,NCR321ZX,NCR321ZX,PCB Footprints:NCR321ZX,
